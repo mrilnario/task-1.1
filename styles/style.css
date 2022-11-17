@@ -1,0 +1,166 @@
+body{
+    box-sizing: border-box;
+    color: #2A4A5C;
+}
+
+.container{
+    width: 100%;
+    background: #EFF6FF;
+    margin-top: 20px;
+    position: relative;
+}
+
+.img{
+    width: 50%;
+}    
+
+.bg{
+position: relative;
+margin: 50px auto 50px 40px;
+width: 100%;
+}
+
+.logo{
+    position: absolute;
+    width: 100px;
+    height: 50px;
+    left: 100px;
+    top: 100px;
+}
+.content{
+    box-sizing: border-box;
+    width: 500px;
+    height: 100%;
+    margin-left: auto;
+    position: absolute;
+    top: 45px;
+    left: 60%
+}
+
+.text{
+    height: 10px;;
+    margin-bottom: 130px;
+    box-sizing: border-box;
+}
+
+.figure{
+    box-sizing: border-box;
+    display: inline-block;
+}
+
+.figure p{
+    text-align: center;
+    margin-top: 5px;
+    color: #EFF6FF;
+}
+
+.figure div{
+    box-sizing: border-box;
+    float: left;
+    margin-right: 20px;
+}
+
+
+.figure1{
+    box-sizing: border-box;
+    width: 200px;
+    height: 30px;
+    background: #255A9B;
+    text-align: center;
+}
+
+.facebook{
+position: absolute;
+top: 166px;
+left: 0;
+}
+
+.figure2{
+    width: 200px;
+    height: 30px;
+    background: #0076B6;
+    position: relative;
+    text-align: center;
+}
+
+.linke{
+    position: absolute;
+    right: 175px;
+    top: 5px;
+}
+.linke, .facebook{
+    height: 20px;
+    width: 20px;
+}
+.polosa p{
+    display: inline-block;
+}
+
+.line{
+    width: 200px;
+    height: 1px;
+    background: #7B8A92;
+    display: inline-block; 
+}
+
+
+
+.form-group label{
+    display: inline-block;
+    margin-right: 132px;
+}
+
+.form-group-3{
+    display: flex;
+    height: 50px;
+}
+
+.form-group{
+    display: inline-block;
+}
+.form-group-2{
+    display: inline-block;
+    margin-left: 60px;
+}
+
+
+.investor h1, 
+.investor p{
+    text-align: center;
+}
+
+
+.box-model div{
+    margin-bottom: 25px;
+    padding-right: 50px;
+    display: inline-block;
+    font-size: 16px;
+}
+
+.words{
+    display: inline-block;
+    height: 110px;
+    width: 155px;
+    background-color: #96A5B1;
+    margin-bottom: 25px;
+    font-size: 16px;
+    text-align: left;
+}
+
+.soglasie{
+    font-size: 12px;
+}
+
+.create{
+    height: 25px;
+    width: 115px;
+    background: #FFFFFF;
+}
+
+.create p{
+    text-align: center;
+    color: #2A4A5C;
+}
+.create:hover{
+    display: block;
+}
